@@ -6,7 +6,6 @@ class MockCleinteDao extends ClienteDao implements ClienteDaoI{
   }
 
   getByIndexI(int index) {
-    // TODO: implement get
     return super.getByIndex(index, this.list);
   }
 }
