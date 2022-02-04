@@ -4,3 +4,4 @@ environment:
 dependencies: 
   date_format: ^2.0.5
   extended_math: ^0.0.29+1
+  http: ^0.13.4
