@@ -1,6 +1,5 @@
 //Usamos o as para poder colocar todas as funções em um objecto chamado http.
 import 'dart:convert';
-import 'dart:io';
 
 import 'package:http/http.dart' as http;
 
